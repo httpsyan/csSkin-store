@@ -38,4 +38,9 @@ Para configurar e iniciar o Backend:
 
 O Backend estará rodando em [http://localhost:8000](http://localhost:8000).
 
+## Demonstração
+https://github.com/user-attachments/assets/a3ddf184-dbee-4087-b646-42e92ae37ddc
+
+
+
 # Feito com 💜.
